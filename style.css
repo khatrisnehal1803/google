@@ -1,0 +1,97 @@
+*
+{
+	margin:o%;
+	padding:0%;
+	box-sizing:border-box;
+}
+.table
+{
+	background-color:red;
+	padding:20%;
+	position:absolute;
+	top:2%;
+	left:96%;
+	transform:transparent(-50%,-50%);
+}
+.user
+{
+	border:1px solid black;
+	padding:10px;
+	border-radius:50%;
+	right:3%;
+}
+.google
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:50%;
+	top:45%;
+	font-size:81px;
+	display:flex;
+}
+.search
+{
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:50%;
+	top:55%;
+	height:35px;
+	width:500px;
+	border:redios:10px;
+	border:1px solid black;
+	
+}
+.search input
+{
+	width:100%;
+	border:none;
+	outline:none;
+	border-radius:10px;
+}
+.mic
+{
+	height:32px;
+	position:absolute;
+	top:53.5%;
+	right:38.8%;
+	
+}
+.camera
+{
+	height:20px;
+	position:absolute;
+	top:54%;
+	right:37.5%;
+}
+.box1
+{
+	border:5px solid white;
+	position:absolute;
+	top:60%;
+	right:48%;
+	width:150px;
+	background-color:#f5f5f5;
+}
+.box2
+{
+	border:5px solid white;
+	position:absolute;
+	top:60%;
+	right:39%;
+	width:150px;
+	background-color:#f5f5f5;
+}
+p
+{
+	position:absolute;
+	top:70%;
+	right:40%;
+}
+i
+{
+	height:20px;
+	position:absolute;
+	top:1%;
+	right:1%;
+}	
+	
